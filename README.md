@@ -1,3 +1,7 @@
+Collection Jar LLC is a company focused on software tools for entomologists. See below for privacy policies and terms and conditions for any active applications. 
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+
 Terms and Conditions and privacy policy for the LabelBug App
 
 Privacy Policy:
@@ -53,3 +57,5 @@ Terms and Conditions:
 
   7. Contact
      For support or questions, contact: collectionjar@outlook.com.
+
+--------------------------------------------------------------------------------------------------------------------------------------------
