@@ -13,7 +13,7 @@ LabelBug respects your privacy. This app does not collect, store, share, or tran
 What We Do
   LabelBug uses your device’s GPS location to auto-fill label fields with details such as country, state, county, coordinates, and elevation.
 
-  This data is not transmitted off your device and is used solely for your convenience in generating specimen labels.
+  Labels may be stored in iCloud if enabled. Otherwise, This data is not transmitted off your device and is used solely for your convenience in generating specimen labels.
 
 What We Do Not Do
   We do not collect or store personal information.
@@ -25,7 +25,7 @@ What We Do Not Do
   We do not use any third-party analytics, advertising, or tracking services.
 
 Your Control
-  All data you enter into the app is stored locally on your device. You can delete it at any time by uninstalling the app.
+  All data you enter into the app is stored locally on your device. You can delete it at any time by uninstalling the app, and/or by disabling iCloud backup.
 
   If you have questions, feel free to contact us at: collectionjar@outlook.com.
 
