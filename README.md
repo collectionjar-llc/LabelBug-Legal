@@ -22,7 +22,7 @@ What We Do Not Do
 
   We do not transmit location or other data to any servers.
 
-  We do not use any third-party analytics, advertising, or tracking services.
+  We do not use any third-party analytics, advertising, or tracking services. LabelBug uses the third-party service Open Topo Data to retrieve elevation information from selected map coordinates. Only anonymous geographic coordinates (latitude and longitude) are sent, and no personal or identifying data is shared.
 
 Your Control
   All data you enter into the app is stored locally on your device. You can delete it at any time by uninstalling the app, and/or by disabling iCloud backup.
